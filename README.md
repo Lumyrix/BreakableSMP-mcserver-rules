@@ -1,0 +1,1 @@
+# BreakableSMP-Minecraft-server-rules

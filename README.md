@@ -6,7 +6,7 @@
 ## 🌍 General
 - No cheats (**X-Ray, Freecam, bug-finding mods, client rain, health indicators, etc.**).
 - **No using spears in combat whatsoever.**
-- No bug or glitch abuse.
+- No bug abuse.
 - No lag machines or dupes (**except string, tripwire, carpet, gravity blocks and rails**).
 - No **NSFW** content, spam or false reports.
 - No seed cracking.
@@ -27,6 +27,7 @@
 - No water stalling to buy time for yourself or your teammates.
 - Do not pearl spam or log out unless your opponent confirms the fight is over.
 - Do not escape fights using **Elytras, Ice Boats, Riptide, Pickaxe Stasis or Fishing Rod Stasis**.
+- No Bucket Draining
 - Do not knock players off the End platform or interrupt players mining or bridging out of the End platform box. **(2 warnings)**
 
 ## 👥 Teams
@@ -38,10 +39,10 @@
 - Avoid fighting at bases while players are grinding (**still allowed**).
 
 ## 🏠 Activity
-- Dragon Egg and Legendary Set holders must play at least **1 hour per day**. (**1 warning. 3 warnings = lose 1 Legendary.**)
+- Dragon Egg and Legendary Item holders must play at least **1 hour per day**. (**1 warning. 3 warnings = lose 1 Legendary.**)
 - All bases must be public and posted in the **#bases** channel. Stashes do not count as bases.
 - Do not raid bases you find or make them worse or unusable.
-- Building traps do **not** count as raiding.
+- Building traps do **not** count as raiding/making them worse
 - Stealing items from containers is allowed.
 - Stealing villagers, bookshelves or anything else that makes a base worse is **not** allowed.
 - Leaving string dupers running for no reason counts as griefing.
@@ -53,7 +54,7 @@
 - PvP rule break = **1 warning**.
 - Team rule break = **1 warning**.
 - Not saying **"gg"** is not punishable. Just don't be rude.
-- Serious **NSFW** or extreme behavior = **Instant Ban**.
+- Serious **NSFW** or crazy behavior = **Instant Ban**.
 
 ## 📝 Notes
 - Rules may change at any time.

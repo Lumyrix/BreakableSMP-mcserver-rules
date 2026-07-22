@@ -54,7 +54,7 @@
 - PvP rule break = **1 warning**.
 - Team rule break = **1 warning**.
 - Not saying **"gg"** is not punishable. Just don't be rude.
-- Serious **NSFW** or crazy behavior = **Instant Ban**.
+- Serious **NSFW** or very bad stuff = **Instant Ban**.
 
 ## 📝 Notes
 - Rules may change at any time.

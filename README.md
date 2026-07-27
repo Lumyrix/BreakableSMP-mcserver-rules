@@ -15,18 +15,19 @@
 
 ## ⚔️ PvP
 - No **CPvP, Riptide Mace or Elytra Firework Mace**. **Cart PvP** is the only explosive PvP allowed.
-- No reach, aim assist or similar cheats.
+- No reach, aim assist or any kind of cheats.
 - No combat logging.
 - No debuff arrows (**e.g. Slow Falling, Jump Boost**). Positive effect arrows are allowed.
 - No negative potion effects (**except Weaving**).
 - Do not kill naked players or players who are gearing up.
-- No loot ratting (**joining fights only to steal loot**).
-- No PvP loophole abuse.
+- No loot ratting.
 - **No Elytras during combat whatsoever.**
 - No Discord calls or private voice channels while fighting.
 - No water stalling to buy time for yourself or your teammates.
 - Do not pearl spam or log out unless your opponent confirms the fight is over.
 - Do not escape fights using **Elytras, Ice Boats, Riptide, Pickaxe Stasis or Fishing Rod Stasis**.
+- No Ender Chest restocking while in combat
+- Only 1 Restock Shulker in your inventory(wich can only contain 2 stacks of XP BOTTLES)
 - No Bucket Draining
 - Do not knock players off the End platform or interrupt players mining or bridging out of the End platform box. **(2 warnings)**
 
@@ -39,14 +40,14 @@
 - Avoid fighting at bases while players are grinding (**still allowed**).
 
 ## 🏠 Activity
-- Dragon Egg and Legendary Item holders must play at least **1 hour per day**. (**1 warning. 3 warnings = lose 1 Legendary.**)
+- Dragon Egg and Legendary Item holders must play at least **1 hour per day**. (**1 warning. 3 warnings = lose 1 Of your legendary or your dragon egg..**)
 - All bases must be public and posted in the **#bases** channel. Stashes do not count as bases.
 - Do not raid bases you find or make them worse or unusable.
 - Building traps do **not** count as raiding/making them worse
 - Stealing items from containers is allowed.
 - Stealing villagers, bookshelves or anything else that makes a base worse is **not** allowed.
 - Leaving string dupers running for no reason counts as griefing.
-- Light spawn griefing is allowed. Excessive spawn griefing is not.
+- Spawn Griefing IS'NT allowed whatsoever unless its Light Griefing.
 - Do not ping **@everyone** or entire groups.
 
 ## ⚖️ Punishments

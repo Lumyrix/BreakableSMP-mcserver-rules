@@ -29,6 +29,7 @@
 - No Ender Chest restocking while in combat
 - Only 1 Restock Shulker in your inventory(wich can only contain 2 stacks of XP BOTTLES)
 - No Bucket Draining
+- No Item frames in combat
 - Do not knock players off the End platform or interrupt players mining or bridging out of the End platform box. **(2 warnings)**
 
 ## 👥 Teams

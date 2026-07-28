@@ -11,6 +11,7 @@
 - No **NSFW** content, spam or false reports.
 - No seed cracking.
 - Do not watch or use another player's stream or video without their permission.
+- No stealing from autobrewers
 - No IRL trading.
 
 ## ⚔️ PvP

@@ -31,6 +31,7 @@
 - No Bucket Draining
 - No Item frames in combat
 - Do not knock players off the End platform or interrupt players mining or bridging out of the End platform box. **(2 warnings)**
+- No tnt in combat(tnt minecarts are not affected by this)
 
 ## 👥 Teams
 - Maximum **3 players** per team and **1 alliance**.

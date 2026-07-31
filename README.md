@@ -26,15 +26,14 @@
 - No Discord calls or private voice channels while fighting.
 - No water stalling to buy time for yourself or your teammates.
 - Do not pearl spam or log out unless your opponent confirms the fight is over.
-- Do not escape fights using **Elytras, Ice Boats, Riptide, Pickaxe Stasis or Fishing Rod Stasis**.
-- No Ender Chest restocking while in combat
-- Only 1 Restock Shulker in your inventory(wich can only contain 2 stacks of XP BOTTLES)
+- Do not escape fights using **Elytras, Ice Boats, Riptide, Pickaxe Stasis or Fishing Rod Stasis**
+- Only 1 Restock Shulker in your inventory(wich can only contain 3 stacks of XP BOTTLES)
 - No Bucket Draining
 - No Item frames in combat
 - Do not knock players off the End platform or interrupt players mining or bridging out of the End platform box. **(2 warnings)**
-- No tnt in combat(tnt minecarts are not affected by this)
+- No TNT in combat(tnt minecarts are not affected by this)
 - No Escaping fights with the ender pearl + wind charge tech(else know as the tech wich the wind charge gives your pearl a ton of momentum making it go really far)
-- No TNT Minecart traps.(a lot of tnt carts in one rail wich once activated blow everything and anything up in miliseconds, arrow cannons wich use carts DO NOT count)
+- No TNT Minecart traps.(a lot of tnt carts in one rail wich once activated blow everything and anything up in a fraction of a second. arrow cannons wich use carts DO NOT count)
 
 ## 👥 Teams
 - Maximum **3 players** per team and **1 alliance**.

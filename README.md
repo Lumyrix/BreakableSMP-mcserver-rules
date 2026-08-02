@@ -34,16 +34,13 @@
 - No TNT in combat(tnt minecarts are not affected by this)
 - No Escaping fights with the ender pearl + wind charge tech(else know as the tech wich the wind charge gives your pearl a ton of momentum making it go really far)
 - No TNT Minecart traps.(a lot of tnt carts in one rail wich once activated blow everything and anything up in a fraction of a second. arrow cannons wich use carts DO NOT count)
-- If someone asks you to land while youre using an elytra somewhat near them YOU HAVE to land
-- IMPORTANT NOTE:You CANNOT use a elytra to run away just a couple seconds **before** you get jumped(that would classify as elytra in combat)
+- If someone asks you to land while you're using an elytra you HAVE to land.
+- You CANNOT carry any spare armor in your inventory or shulker(for using in combat)
 
 ## 👥 Teams
 - Maximum **3 players** per team and **1 alliance**.
 - Honor all IOUs at all times.
 - Teams and alliances may have a maximum of **1 S-Tier skill** and **2 A-Tier skills**. There is no limit on **B-Tier or lower**.
-- Prioritize making good content.
-- Do not grief public bases.
-- Avoid fighting at bases while players are grinding (**still allowed**).
 
 ## 🏠 Activity
 - Dragon Egg and Legendary Item holders must play at least **1 hour per day**. (**1 warning. 3 warnings = lose 1 Of your legendary or your dragon egg..**)

@@ -36,6 +36,8 @@
 - No TNT Minecart traps.(a lot of tnt carts in one rail wich once activated blow everything and anything up in a fraction of a second. arrow cannons wich use carts DO NOT count)
 - If someone asks you to land while you're using an elytra you HAVE to land.
 - You CANNOT carry any spare armor in your inventory or shulker(for using in combat)
+- No interrupting or helping/giving an advantage to X side in a TierSystem Fight
+- Dont get too near Tier Fights(stay around 5+ blocks of distance of the ppl fighting)
 
 ## 👥 Teams
 - Maximum **3 players** per team and **1 alliance**.

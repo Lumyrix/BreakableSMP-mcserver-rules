@@ -13,6 +13,7 @@
 - Do not watch or use another player's stream or video without their permission.
 - No stealing from autobrewers
 - No IRL trading.
+- No sky basing
 
 ## ⚔️ PvP
 - No **CPvP, Riptide Mace or Elytra Firework Mace**. **Cart PvP** is the only explosive PvP allowed.

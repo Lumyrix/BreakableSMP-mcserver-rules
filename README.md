@@ -4,8 +4,7 @@
 - Use common sense. Do not abuse loopholes or technicalities to bypass these rules.
 
 ## 🌍 General
-- No cheats (**X-Ray, Freecam, bug-finding mods, client rain, health indicators, etc.**).
-- **No using spears in combat whatsoever.**
+- No cheats (**X-Ray, Freecam, bug-finding mods, client rain, health indicators, etc. anything that gives you an unfair advantage**).
 - No bug abuse.
 - No lag machines or dupes (**except string, tripwire, carpet, gravity blocks and rails**).
 - No **NSFW** content, spam or false reports.
@@ -13,11 +12,13 @@
 - Do not watch another player's stream without their permission.
 - No stealing **MATERIALS**from autobrewers(pots alredy ready dont count)
 - No IRL trading.
+- No "living" at your stash.
 - No sky basing
 
 ## ⚔️ PvP
 - No **CPvP, Riptide Mace or Elytra Firework Mace**. **Cart PvP** is the only explosive PvP allowed.
 - No reach, aim assist or any kind of cheats.
+- No Spear's In PVP
 - No combat logging.
 - No debuff arrows (**e.g. Slow Falling, Jump Boost**). Positive effect arrows are allowed.
 - No negative potion effects (**except Weaving**).
@@ -35,7 +36,7 @@
 - No TNT in combat(tnt minecarts are not affected by this)
 - No Escaping fights with the ender pearl + wind charge tech(else know as the tech wich the wind charge gives your pearl a ton of momentum)
 - If someone asks you to land while you're using an elytra you HAVE to land.
-- You CANNOT carry any spare armor in your inventory or shulker(for using in pvp. you can still carry Blast Prot And Protection IV separately in your kit if you're a cart pvper, but it HAS to be The Leggings or Chest Plate)
+- You CANNOT carry any spare armor in your inventory or shulker(for using in pvp. you can still carry Blast Prot And Protection IV separately in your kit if you're a cart pvper, but it HAS to be The Leggings or The Chest Plate)
 - No interrupting or helping/giving an advantage to X person in a Tier Fight, ANY kind of interruption will result into a warn.
 - Dont get too near ppl fighting in Tier Fights(stay around 5+ blocks of distance of the ppl fighting)
 

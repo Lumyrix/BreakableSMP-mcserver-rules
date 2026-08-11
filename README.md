@@ -70,3 +70,4 @@
 - If you want to break or bend a rule for content, you must **open a ticket and receive staff approval beforehand**. Doing so without prior staff approval will result in **1 warning**.
 - Do not ruin other players' ability to create content.
 - If you have any questions or concerns, open a ticket.
+- OTHER'S CAN WATCH YOUR VIDEO'S ON THE SMP SO BE CAREFUL!(Still cant watch streams though. even if its a old one, unless the streamer gave EXPLICIT permission)

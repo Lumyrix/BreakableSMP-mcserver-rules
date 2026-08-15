@@ -1,78 +1,137 @@
 # 📜 BreakableSMP Rules
 
-## 🧠 Common Sense
-- Use common sense. Do not abuse loopholes or technicalities to bypass these rules.
+> **Read everything before playing.**
+> Use common sense at all times. Do not abuse loopholes, technicalities, or unintended mechanics to bypass the rules.
 
-## 🌍 General
-- No cheats (**X-Ray, Freecam, bug-finding mods, client rain, health indicators, etc. anything that gives you an unfair advantage**).
-- No bug abuse.
-- No lag machines or dupes (**except string, tripwire, carpet, gravity blocks and rails**).
-- No **NSFW** content, spam or false reports.
-- No seed cracking.
-- Do not watch another player's stream without their permission.
-- No stealing **MATERIALS** from autobrewers(pots alredy ready don't count)
-- No IRL trading.
-- No "living" at your stash.
-- No sky basing
-- No flooding the server
-- No destroying the server with duped tnt
-- ALL bases have to be on #bases channel with their coordinates 
+## 🧠 General
+
+* **No loopholing.**
+* No cheats or unfair advantages (**X-Ray, Freecam, bug-finding mods, client rain, health indicators, etc.**).
+* No bug abuse.
+* No lag machines or dupes, except **string, tripwire, carpet, gravity blocks, and rails**.
+* No **NSFW content**, spam, or false reports.
+* No seed cracking.
+* Do not watch another player's **stream** without their explicit permission.
+* No IRL trading.
+* No "living" at your stash.
+* No sky basing.
+* No flooding the server.
+* **Every base must be posted in #bases with its coordinates.**
+* Do not steal **materials** from Auto Brewers. Already-made potions may be taken.
+* **Only the Owner and Administrators may use @everyone or ping entire groups.**
 
 ## ⚔️ PvP
-- No kinds of explosive pvp except carts. no riptide mace. no elytra mace.
-- No reach, aim assist or any kind of cheats.
-- No using the spears at all in combat and traps.
-- No logging out in combat. near danger or in danger
-- No debuff arrows (**e.g. Slow Falling, Jump Boost**). Positive effect arrows are allowed.
-- No negative potion effects (**except Weaving**).
-- Do not kill naked players or players who are gearing up.
-- No loot ratting.(if youre naked killed while trying to loot rat the person that killed you is NOT going to get punished)
-- **No Elytras during combat or near/in danger whatsoever.**
-- No Discord calls or closed voice chat groups while fighting.
-- No water stalling to buy time for yourself or your teammates.
-- Do not pearl spam or log out unless your opponent confirms the fight is over.
-- Do not escape fights using **Elytras, Ice Boats, Riptide, Pickaxe Stasis or Fishing Rod Stasis**
-- Only 1 Restock Shulker in your kit
-- No pearls in your restock shulker
-- 3 stacks of XP maximum in your kit(you can divide the xp between your inventory and shulkers as much as you want)
-- No Bucket Draining
-- No Item frames in combat
-- Do not knock players off the End platform or interrupt players mining or bridging out of the End platform box. **(2 warnings if broken)**
-- No TNT in combat(tnt minecarts are not affected by this)
-- No Escaping fights with the ender pearl + wind charge tech(else know as the tech wich the wind charge gives your pearl a ton of momentum)
-- If someone asks you to land while you're using an elytra you HAVE to land.
-- You CANNOT carry any spare armor in your inventory or shulker for pvp. the only exception being if its a armor piece to separate blast prot and prot iv if you cart. however it can only be the chestplate. leggings or boots
-- No interrupting or helping/giving an advantage to X person in a Tier Fight, ANY kind of interruption will result into a warn.
-- Dont get too near ppl fighting in Tier Fights(stay around 5+ blocks of distance of the ppl fighting)
 
-## 👥 Teams
-- Maximum **3 players** per team and **1 alliance**.
-- Honor all IOUs at all times.
-- Teams and alliances may have a maximum of **1 S-Tier skill** and **2 A-Tier skills**. There is no limit on **B-Tier or lower**.
+> **Only Cart PvP and normal SMP PvP are allowed. Other forms of PvP are prohibited.**
 
-## 🏠 Activity
-- Dragon Egg and Legendary Item holders must play at least **1 hour per day**. (**1 warning. 3 warnings = lose 1 Of your legendary or your dragon egg..**)
-- All bases must be public and posted in the **#bases** channel. Stashes do not count as bases.
-- Do not raid bases you find or make them worse or unusable.
-- Building traps do **not** count as raiding/making them worse
-- Stealing items from containers of bases is allowed.(Only exception being is a AutoBrewer, you absolutely CANNOT steal from the autobrewer unless its alredy made pots rather than the materials themselves)
-- Stealing villagers, bookshelves or anything else that makes a base worse is **not** allowed.
-- Spawn Griefing IS'NT allowed whatsoever unless its Light Griefing.
-- Do not ping **@everyone** or entire groups.
+### ✅ Allowed PvP
+
+* **Cart PvP is allowed.**
+* Normal SMP PvP is allowed.
+* Players may choose their own potion/effect setup.
+* **Strength I or II** is allowed.
+* **Speed I or II** is allowed.
+* **Strength II + Speed II** is allowed.
+* **Turtle Master** is allowed.
+* **Regeneration Potions** are allowed.
+* **Instant Health Potions** are allowed.
+* **Fire Resistance** is allowed.
+* **Weaving** is allowed.
+* Players may also choose to use **none of these effects**.
+
+### ❌ Prohibited PvP
+
+* No PvP methods outside of **Cart PvP and normal SMP PvP**.
+* No **Riptide Mace PvP**.
+* No **Elytra Mace PvP**.
+* No explosive PvP except **TNT Minecart PvP**.
+* No reach, aim assist, or any other cheats.
+* Spears may **not** be used in combat or traps.
+* No combat logging, including when you are near danger or already in danger.
+* No debuff arrows (**Slow Falling, Jump Boost, etc.**).
+* No other negative potion effects outside of the effects specifically allowed above.
+* Do not kill naked players or players who are clearly gearing up.
+* No loot ratting. If a naked player is killed while attempting to loot rat, the killer will **not** be punished.
+* **No Elytras during combat or while near/in danger.**
+* No Discord calls or closed voice-chat groups while fighting.
+* No water stalling to buy time for yourself or your teammates.
+* Do not pearl spam.
+* Do not log out until your opponent confirms that the fight is over.
+* Do not escape fights using **Elytras, Ice Boats, Riptide, Pickaxe Stasis, or Fishing Rod Stasis**.
+* No escaping fights using the **Ender Pearl + Wind Charge momentum technique**.
+* If someone asks you to land while using an Elytra, **you must land**.
+* No bucket draining.
+* No item frames during combat.
+* No TNT during combat. **TNT minecarts are exempt.**
+* No spare armor in your inventory or shulkers for PvP.
+
+  * The only exception is **one spare chestplate** for switching between Blast Protection and Protection IV when fighting with TNT minecarts.
+  * Spare leggings or boots are **not** allowed.
+* Do not knock players off the End platform or interfere with players mining or bridging out of the End platform box. **Breaking this rule results in 2 warnings.**
+
+### 🎒 PvP Kit Limits
+
+* **1 Restock Shulker maximum.**
+* No Ender Pearls inside the Restock Shulker.
+* **1 Totem of Undying maximum inside the Restock Shulker.**
+* **2 Totems of Undying maximum in your inventory.**
+* **3 stacks of XP maximum per kit.**
+* XP may be split between your inventory and your **Restock Shulker** however you want, as long as the total does not exceed **3 stacks**.
+* **There is no limit on Water Buckets.** You may carry as many Water Buckets as you want in both your inventory and your **Restock Shulker**.
+
+### 🏆 Tier Fights
+
+* Do not interrupt, assist, or give an advantage to either player during a Tier Fight.
+* **Any interference = 1 warning.**
+* Stay at least **8 blocks away** from players fighting in Tier Fights.
+
+## 👥 Teams & Alliances
+
+* **3 players maximum** per team.
+* **1 alliance maximum** per team.
+* All IOUs must be honored.
+* Each team/alliance may have a maximum of:
+
+  * **1 S-Tier skill**
+  * **2 A-Tier skills**
+  * Unlimited **B-Tier or lower skills**
+
+## 🏠 Bases, Raiding & Activity
+
+* **All bases must be public and posted in #bases with their coordinates.**
+* Stashes do not count as bases.
+* Do not raid bases you find or intentionally make them worse or unusable.
+* Building traps does **not** count as raiding or making a base worse.
+* Stealing items from containers is allowed.
+* **Auto Brewers are the exception:** you may take finished potions, but you may not steal the materials inside.
+* Do not steal villagers, bookshelves, or anything else that makes a base worse.
+* Spawn griefing is **not allowed**, except for light griefing.
+
+### ⏱️ Activity
+
+* Players holding a **Dragon Egg, Legendary Item, or Mythic Item** must play at least **1 hour per day**.
+* Failing this requirement = **1 Activity Warning**.
+* **3 Activity Warnings = lose 1 Legendary Item, Mythic Item, or the Dragon Egg.**
+* **Activity Warnings are completely separate from normal rule-break warnings.**
+* Activity warnings do **not** count toward the normal **3-warning Season Ban**, and normal rule-break warnings do **not** count as Activity Warnings.
 
 ## ⚖️ Punishments
-- General rule break = **1 warning**.
-- PvP rule break = **1 warning**.
-- Team rule break = **1 warning**.
-- Not saying **"gg"** after a fight is not punishable. Just don't be rude.
-- **NSFW** or seriously bad things = **Instant Ban**.
+
+* General rule break = **1 warning**
+* PvP rule break = **1 warning**
+* Team/Alliance rule break = **1 warning**
+* **3 normal warnings = Season Ban**
+* Not saying **"gg"** after a fight is not punishable. Just don't be rude.
+* **NSFW or seriously harmful behavior = Instant Ban**
 
 ## 📝 Notes
-- Rules may change at any time.
-- Staff may punish players based on common sense.
-- Reaching **3 warnings** will result in a **season ban**.
-- Do everything for content, but use common sense.
-- If you want to break or bend a rule for content, you must **open a ticket and receive staff approval beforehand**. Doing so without prior staff approval will result in **1 warning**.
-- Do not ruin other players' ability to create content.
-- If you have any questions or concerns, open a ticket.
-- OTHER'S CAN WATCH YOUR VIDEO'S ON THE SMP SO BE CAREFUL(Still cant watch streams though. even if its a old one, unless the streamer gave EXPLICIT permission)
+
+* Rules may change at any time.
+* Staff may punish players using **common sense** and the intended spirit of the rules.
+* Do everything for **content**, but use common sense.
+* Do not ruin another player's ability to create content.
+* Other players may watch your **uploaded videos** from the SMP.
+* **Streams from the current season may only be watched with the streamer's explicit permission.**
+* **Streams from previous seasons may be watched without permission.**
+* If you believe someone has exceeded the **XP limit or Totem limit**, use **`/report (nick) (reason)`** and then open a **ticket in the Discord** with the details.
+* Questions or concerns? **Open a ticket.**

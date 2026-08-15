@@ -10,33 +10,38 @@
 - No **NSFW** content, spam or false reports.
 - No seed cracking.
 - Do not watch another player's stream without their permission.
-- No stealing **MATERIALS**from autobrewers(pots alredy ready dont count)
+- No stealing **MATERIALS** from autobrewers(pots alredy ready don't count)
 - No IRL trading.
 - No "living" at your stash.
 - No sky basing
+- No flooding the server
+- No destroying the server with duped tnt
+- ALL bases have to be on #bases channel with their coordinates 
 
 ## ⚔️ PvP
-- No **CPvP, Riptide Mace or Elytra Firework Mace**. **Cart PvP** is the only explosive PvP allowed.
+- No kinds of explosive pvp except carts. no riptide mace. no elytra mace.
 - No reach, aim assist or any kind of cheats.
-- No Spear's In PVP
-- No combat logging.
+- No using the spears at all in combat and traps.
+- No logging out in combat. near danger or in danger
 - No debuff arrows (**e.g. Slow Falling, Jump Boost**). Positive effect arrows are allowed.
 - No negative potion effects (**except Weaving**).
 - Do not kill naked players or players who are gearing up.
-- No loot ratting.
-- **No Elytras during combat whatsoever.**
-- No Discord calls or private voice channels while fighting.
+- No loot ratting.(if youre naked killed while trying to loot rat the person that killed you is NOT going to get punished)
+- **No Elytras during combat or near/in danger whatsoever.**
+- No Discord calls or closed voice chat groups while fighting.
 - No water stalling to buy time for yourself or your teammates.
 - Do not pearl spam or log out unless your opponent confirms the fight is over.
 - Do not escape fights using **Elytras, Ice Boats, Riptide, Pickaxe Stasis or Fishing Rod Stasis**
-- Only 1 Restock Shulker in your inventory(wich can only contain 3 stacks of XP BOTTLES)
+- Only 1 Restock Shulker in your kit
+- No pearls in your restock shulker
+- 3 stacks of XP maximum in your kit(you can divide the xp between your inventory and shulkers as much as you want)
 - No Bucket Draining
 - No Item frames in combat
 - Do not knock players off the End platform or interrupt players mining or bridging out of the End platform box. **(2 warnings if broken)**
 - No TNT in combat(tnt minecarts are not affected by this)
 - No Escaping fights with the ender pearl + wind charge tech(else know as the tech wich the wind charge gives your pearl a ton of momentum)
 - If someone asks you to land while you're using an elytra you HAVE to land.
-- You CANNOT carry any spare armor in your inventory or shulker(for using in pvp. you can still carry Blast Prot And Protection IV separately in your kit if you're a cart pvper, but it HAS to be The Leggings or The Chest Plate)
+- You CANNOT carry any spare armor in your inventory or shulker for pvp. the only exception being if its a armor piece to separate blast prot and prot iv if you cart. however it can only be the chestplate. leggings or boots
 - No interrupting or helping/giving an advantage to X person in a Tier Fight, ANY kind of interruption will result into a warn.
 - Dont get too near ppl fighting in Tier Fights(stay around 5+ blocks of distance of the ppl fighting)
 
@@ -70,4 +75,4 @@
 - If you want to break or bend a rule for content, you must **open a ticket and receive staff approval beforehand**. Doing so without prior staff approval will result in **1 warning**.
 - Do not ruin other players' ability to create content.
 - If you have any questions or concerns, open a ticket.
-- OTHER'S CAN WATCH YOUR VIDEO'S ON THE SMP SO BE CAREFUL!(Still cant watch streams though. even if its a old one, unless the streamer gave EXPLICIT permission)
+- OTHER'S CAN WATCH YOUR VIDEO'S ON THE SMP SO BE CAREFUL(Still cant watch streams though. even if its a old one, unless the streamer gave EXPLICIT permission)

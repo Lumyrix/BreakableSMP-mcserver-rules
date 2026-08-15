@@ -19,6 +19,8 @@
 * **Every base must be posted in #bases with its coordinates.**
 * Do not steal **materials** from Auto Brewers. Already-made potions may be taken.
 * **Only the Owner and Administrators may use @everyone or ping entire groups.**
+* You cannot use an Ender Chest in combat
+  --This includes opening an Ender Chest even briefly to retrieve items during a fight.
 
 ## ⚔️ PvP
 

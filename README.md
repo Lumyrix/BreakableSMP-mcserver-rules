@@ -48,7 +48,7 @@
 * No **Elytra Mace PvP**.
 * **Instant Health Potions** are NOT allowed only in pvp. for farms and grinding it is free to  use
 * No reach, aim assist, or any other cheats.
-* Spears may **not** be used in combat or traps.
+* Spears **CANNOT** be used in combat or traps. if you lunge away from someone while in danger or before you're in danger you're breaking this rule. spears can be used freely for travelling across terrain though.
 * No combat logging, including when you are near danger or already in danger.
 * No debuff arrows (**Slow Falling, Jump Boost, etc.**).
 * No other negative potion effects outside of the effects specifically allowed above.
@@ -61,7 +61,7 @@
 * Do not log out until your opponent confirms that the fight is over.
 * Do not escape fights using **Elytras, Ice Boats, Riptide, Pickaxe Stasis, or Fishing Rod Stasis**.
 * No escaping fights using the **Ender Pearl + Wind Charge momentum technique**.
-* If someone asks you to land while using an Elytra, **you must land**.
+* If someone asks you to land while using an Elytra OR Happy ghast, **you must land**.
 * No bucket draining.
 * No item frames during combat.
 * No TNT during combat. **TNT minecarts are exempt.**

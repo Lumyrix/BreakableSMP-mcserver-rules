@@ -31,7 +31,7 @@
 
 * **Cart PvP is allowed.**
 * Normal SMP PvP is allowed.
-* Players can freely choose their own potion/effect setup for these below
+* Players can freely choose their own potion/effect setup from these potions below
 * **Strength I or II** is allowed.
 * **Speed I or II** is allowed.
 * **Strength II + Speed II** is allowed.
@@ -39,7 +39,7 @@
 * **Regeneration Potions** are allowed.
 * **Fire Resistance** is allowed.
 * **Weaving** is allowed.
-* Players may also choose to use **none of these effects**.
+* **No** Other Pots Outside of this list is allowed
 
 ### ❌ Prohibited PvP related stuff
 

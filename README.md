@@ -8,6 +8,7 @@
 * **No loopholing.**
 * No cheats or unfair advantages (**X-Ray, Freecam, bug-finding mods, client rain, health indicators, etc.**).
 * No bug abuse.
+* No Wither farms(this is a special rule as breaking this one will result in 2 warns rather than only 1)
 * No lag machines or dupes, except **string, tripwire, carpet, gravity blocks, and rails**.
 * No **NSFW content**, spam, or false reports.
 * No seed cracking.
@@ -17,7 +18,7 @@
 * No sky basing.
 * No flooding the server.
 * **Every base must be posted in #bases with its coordinates.**
-* Do not steal **materials** from Auto Brewers. Already-made potions may be taken.
+* Do not steal **materials** from Auto Brewers.
 * **Only the Owner and Administrators may use @everyone or ping entire groups.**
 * You cannot use an Ender Chest in combat
   --This includes opening an Ender Chest even briefly to retrieve items during a fight.
@@ -36,17 +37,16 @@
 * **Strength II + Speed II** is allowed.
 * **Turtle Master** is allowed.
 * **Regeneration Potions** are allowed.
-* **Instant Health Potions** are allowed.
 * **Fire Resistance** is allowed.
 * **Weaving** is allowed.
 * Players may also choose to use **none of these effects**.
 
-### ❌ Prohibited PvP
+### ❌ Prohibited PvP related stuff
 
 * No PvP methods outside of **Cart PvP and normal SMP PvP**.
 * No **Riptide Mace PvP**.
 * No **Elytra Mace PvP**.
-* No explosive PvP except **TNT Minecart PvP**.
+* **Instant Health Potions** are NOT allowed only in pvp. for farms and grinding it is free to  use
 * No reach, aim assist, or any other cheats.
 * Spears may **not** be used in combat or traps.
 * No combat logging, including when you are near danger or already in danger.
@@ -92,11 +92,12 @@
 * **3 players maximum** per team.
 * **1 alliance maximum** per team.
 * All IOUs must be honored.
-* Each team/alliance may have a maximum of:
+* Each team/alliance can only have a maximum of:
 
   * **1 S-Tier skill**
   * **2 A-Tier skills**
-  * Unlimited **B-Tier or lower skills**
+  * Unlimited **B-Tier or lower skill levels**
+  * (Tier test's will happen a couple days before the season start. in case you DON'T tier test you will be put automatically as an N/A tier.)
 
 ## 🏠 Bases, Raiding & Activity
 
@@ -137,3 +138,4 @@
 * **Streams from previous seasons may be watched without permission.**
 * If you believe someone has exceeded the **XP limit or Totem limit**, use **`/report (nick) (reason)`** and then open a **ticket in the Discord** with the details.
 * Questions or concerns? **Open a ticket.**
+* in case you take off your armor in danger or near danger to protect yourself it is considered a loophole.

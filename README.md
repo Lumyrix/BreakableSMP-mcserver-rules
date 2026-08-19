@@ -31,7 +31,7 @@
 
 * **Cart PvP is allowed.**
 * Normal SMP PvP is allowed.
-* Players may choose their own potion/effect setup.
+* Players can freely choose their own potion/effect setup for these below
 * **Strength I or II** is allowed.
 * **Speed I or II** is allowed.
 * **Strength II + Speed II** is allowed.

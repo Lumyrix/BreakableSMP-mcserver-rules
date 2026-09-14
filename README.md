@@ -19,6 +19,7 @@
 * No flooding the server.
 * **Every base must be posted in #bases with its coordinates.**
 * Do not steal **materials** from Auto Brewers.
+* NO SCRIPTING VIDEOS OR STAGING CERTAIN PARTS OF YOUR VIDEO IN THE SMP(all videos recorded in the smp MUST be unscripted) (recreating what happened if you didnt record or lost your recording is fine.)
 * **Only the Owner and Administrators may use @everyone or ping entire groups.**
 * You cannot use an Ender Chest in combat
   --This includes opening an Ender Chest even briefly to retrieve items during a fight.
@@ -27,7 +28,7 @@
 
 > **Only Cart PvP and normal SMP PvP are allowed. Other forms of PvP are prohibited.**
 
-### ✅ Allowed PvP
+### ✅ Allowed
 
 * **Cart PvP is allowed.**
 * Normal SMP PvP is allowed.

@@ -22,7 +22,7 @@
 * NO SCRIPTING VIDEOS OR STAGING CERTAIN PARTS OF YOUR VIDEO IN THE SMP(all videos recorded in the smp MUST be unscripted) (recreating what happened if you didnt record or lost your recording is fine.)
 * **Only the Owner and Administrators may use @everyone or ping entire groups.**
 * You cannot use an Ender Chest in combat
-  --This includes opening an Ender Chest even briefly to retrieve items during a fight.
+  --This includes opening an Ender Chest even for 1s during a fight.
 
 ## ⚔️ PvP
 
@@ -64,7 +64,8 @@
 * No escaping fights using the **Ender Pearl + Wind Charge momentum technique**.
 * If someone asks you to land while using an Elytra OR Happy ghast, **you must land**.
 * No bucket draining.
-* No item frames during combat.
+* No Item Frames During Combat.
+* No Banners During Combat
 * No TNT during combat. **TNT minecarts are exempt.**
 * No spare armor in your inventory or shulkers for PvP.
 
@@ -86,7 +87,7 @@
 
 * Do not interrupt, assist, or give an advantage to either player during a Tier Fight.
 * **Any interference = 1 warning.**
-* Stay at least **8 blocks away** from players fighting in Tier Fights.
+* Stay at least **12 blocks away** from players fighting in Tier Fights.
 
 ## 👥 Teams & Alliances
 
@@ -102,9 +103,9 @@
 
 ## 🏠 Bases, Raiding & Activity
 
-* **All bases must be public and posted in #bases with their coordinates.**
-* Stashes do not count as bases.
-* Do not raid bases you find or intentionally make them worse or unusable.
+* **All bases MUST have a visible surface entrance and be on stone level or higher**
+* Stashes,regear stations,or a place to hide your spawn point do not count as a base.
+* Do not raid bases you find or intentionally make them worse/unusable.(raiding stashes does not count)
 * Building traps does **not** count as raiding or making a base worse.
 * Stealing items from containers is allowed.
 * **Auto Brewers are the exception:** you may take finished potions, but you may not steal the materials inside.
@@ -113,7 +114,7 @@
 
 ### ⏱️ Activity
 
-* Players holding a **Dragon Egg, Legendary Item, or Mythic Item** must play at least **1 hour per day**.
+* Players holding a **Dragon Egg, Legendary Item, or Mythic Item** must play at for least **1 hour per day**.
 * Failing this requirement = **1 Activity Warning**.
 * **3 Activity Warnings = lose 1 Legendary Item, Mythic Item, or the Dragon Egg.**
 * **Activity Warnings are completely separate from normal rule-break warnings.**

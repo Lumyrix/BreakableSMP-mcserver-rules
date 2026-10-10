@@ -105,7 +105,7 @@
 
 * **All bases MUST have a visible surface entrance and be on stone level or higher**
 * Stashes,regear stations,or a place to hide your spawn point do not count as a base.
-* Do not raid bases you find or intentionally make them worse/unusable.(raiding stashes does not count)
+* FULLY Raiding bases IS NOT Allowed. you can't blow the base up and remove everything but you can still steal stuff or kill the villagers if you want to.(if you do more than killing the villagers that can be considered fully raiding depending on the base)
 * Building traps does **not** count as raiding or making a base worse.
 * Stealing items from containers is allowed.
 * **Auto Brewers are the exception:** you may take finished potions, but you may not steal the materials inside.
